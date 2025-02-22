@@ -1,0 +1,27 @@
+SAMPLE DATA APPROVAL
+
+approval HO
+- requester -> 2013010431, approver -> 2016030651 (ESS Permit Done, ESS Overtime Done)
+
+approval 2 level complete
+- requester -> 2022010804, appr lvl 1 -> 2002070152, appr lvl 2 -> 2024070901 (ESS Permit Done, ESS Overtime Done) 
+
+approval lvl 2 kosong
+- requester -> 2015030581, appr lvl 1 -> 2015070610, appr lvl 2 -> kosong (ESS Permit Done, ESS Overtime Done) - Overtime masih kelempar ke 2004100175
+- requester -> 2014090527, appr lvl 1 -> 2022010811, appr lvl 2 -> kosong (ESS Permit Done, ESS Overtime Done) - Overtime kelempar ke 2022010805
+
+
+approval lvl 1 kosong
+- requester -> 2015020572, appr lvl 1 -> kosong, appr lvl 2 -> 2012040400 (ESS Permit Done, ESS Overtime Done) - Overtime approve gagal di level 2
+
+
+ADDITIONAL CASE
+
+- Pak Andi (Presdir) = langsung ke HR Admin HO (done)
+- Holding + Ambarwati, Paulus, Andi, Kho Cing Siong full = langsung HR Admin HO
+- ISSU HO = semua approval HR Admin HO
+- (khusus) Pak Sugeng (ISSU 1) = approval cuti ke HR Admin HO.  karena ada kasus IP
+- kalau wahyu bawahan pak sugeng = approver 1 pak sugeng, approver 2 HR Admin ISSU 2. atau boleh berhenti di approver 1, dianggap approver 2 vacant (karena approver 2 nya presdir)
+- Pak Manto (GM ISSU 3) = approval ke HR Admin ISSU 3
+
+
